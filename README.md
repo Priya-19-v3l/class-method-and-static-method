@@ -1,0 +1,1 @@
+# class-method-and-static-method
